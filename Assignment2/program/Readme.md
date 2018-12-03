@@ -1,18 +1,18 @@
-program
-|-- main.c  		#¥Dµ{¦¡µ{¦¡½X
-|-- ts.h			#¨ç¦¡«Å§i»P¹ê§@
-|-- a.exe			#*¥Dµ{¦¡¡A½Ğ¹B¦æ³o­Ó
-|					#Usage--
-|							./a [input filename]	
-|-- inputs			#©ñ¤@¨Ç´ú¸Õ¥Îinput
-	|-- input.txt			#ÃD¥Øinput
-	|-- input2.txt			#10­Ócityªºinput
-	|-- input100.txt		#100­Ócityªºinput
-	|-- input100_2.txt		#100­Ócityªºinput
-	|-- input1000.txt		#1000­Ócityªºinput
-	|-- generate_inputs.c	#²£¥Íinputªºµ{¦¡ªºcode
-	|-- a.exe				#²£¥Íinputªºµ{¦¡
-							#Usage--
-									./a [output filename] [number_of_cities] 
+program  
+|-- main.c  		#ä¸»ç¨‹å¼ç¨‹å¼ç¢¼  
+|-- ts.h			#å‡½å¼å®£å‘Šèˆ‡å¯¦ä½œ  
+|-- a.exe			#*ä¸»ç¨‹å¼ï¼Œè«‹é‹è¡Œé€™å€‹  
+|					#Usage--  
+|							./a [input filename]	  
+|-- inputs			#æ”¾ä¸€äº›æ¸¬è©¦ç”¨input  
+	|-- input.txt			#é¡Œç›®input  
+	|-- input2.txt			#10å€‹cityçš„input  
+	|-- input100.txt		#100å€‹cityçš„input  
+	|-- input100_2.txt		#100å€‹cityçš„input  
+	|-- input1000.txt		#1000å€‹cityçš„input  
+	|-- generate_inputs.c	#ç”¢ç”Ÿinputçš„ç¨‹å¼çš„code  
+	|-- a.exe				#ç”¢ç”Ÿinputçš„ç¨‹å¼  
+							#Usage--  
+									./a [output filename] [number_of_cities]   
 								
 
